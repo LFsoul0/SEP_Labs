@@ -1,0 +1,12 @@
+debug/gamescene.o
+debug/main.o
+debug/mainmenu.o
+debug/pushbutton.o
+debug/qsnake.o
+debug/snake.o
+debug/qrc_res.o
+debug/moc_gamescene.o
+debug/moc_mainmenu.o
+debug/moc_pushbutton.o
+debug/moc_qsnake.o
+debug/moc_snake.o

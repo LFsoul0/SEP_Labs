@@ -1,0 +1,12 @@
+release/gamescene.o
+release/main.o
+release/mainmenu.o
+release/pushbutton.o
+release/qsnake.o
+release/snake.o
+release/qrc_res.o
+release/moc_gamescene.o
+release/moc_mainmenu.o
+release/moc_pushbutton.o
+release/moc_qsnake.o
+release/moc_snake.o
